@@ -1,1 +1,15 @@
+AI USE DISCLOSURE
+Document Purpose: Disclosure of Artificial Intelligence (AI) Assistance
+
+In accordance with academic integrity and institutional guidelines, this statement discloses the use of artificial intelligence (AI) technologies in the preparation of this work.
+
+AI Tool Used:
+- Google Gemini AI
+
+Nature of Assistance:
+1. Better Wording & Text Refinement: The AI was utilized to improve sentence structure, enhance clarity, and ensure academic phrasing without changing the original arguments or core ideas.
+2. Finding Sources: The AI assisted in identifying and locating reliable academic sources and literature relevant to the topic.
+3. Citation Verification: The AI was used to check, verify, and correct APA style citations to ensure strict adherence to formatting standards.
+
+All final ideas, arguments, interpretations, and structural choices remain entirely my own, and I take full responsibility for the accuracy and integrity of the submitted work.
 
