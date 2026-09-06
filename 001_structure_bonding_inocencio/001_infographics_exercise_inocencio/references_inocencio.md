@@ -1,7 +1,11 @@
 National Center for Biotechnology Information. (2026). Aspirin (CID 2244). PubChem Compound Summary. Retrieved September 6, 2026, from https://pubchem.ncbi.nlm.nih.gov/compound/Aspirin
+
 Alegbeleye BJ, Akpoveso O-OP, Mohammed RK, Asare BY-A. Pharmacology, Pharmaceutics and Clinical Use of Aspirin: A Narrative Review. J. Drug Delivery Ther. [Internet]. 2020 Oct. 15 [cited 2026 Sep. 6];10(5-s):236-53. Available from: https://jddtonline.info/index.php/jddt/article/view/4351
+
 Arif H, Patel P. Salicylic Acid (Aspirin) [Updated 2026 Jun 25]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2026 Jan-. Available from: https://www.ncbi.nlm.nih.gov/books/NBK519032/
+
 Dai, Y., & Ge, J. (2012). Clinical use of aspirin in treatment and prevention of cardiovascular disease. Thrombosis, 2012, 245037. https://doi.org/10.1155/2012/245037
+
 Nel, M., Potgieter, K., Alimi, O. A., Nel, A. L., & Meijboom, R. (2022). The automated synthesis of aspirin: an undergraduate practical activity. Journal of Chemical Education, 99(11), 3773-3779.
 
 National Center for Biotechnology Information. (2026). Compound summary: Ethanol. PubChem. https://pubchem.ncbi.nlm.nih.gov/compound/Ethanol
